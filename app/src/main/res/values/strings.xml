@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tietokanta</string>
+    <string name="hint_nro">Numero</string>
+    <string name="hint_nimi">Nimi</string>
+    <string name="hint_hankittu">Hankinta pp.kk.vvvv</string>
+    <string name="hint_painos">Painos</string>
+</resources>
